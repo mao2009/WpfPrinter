@@ -29,7 +29,7 @@ jobs:
       run: dotnet test WpfPrinter.sln --no-build --verbosity normal
 
   publish:
-    needs: build-and-test
+    needs: build-test
     runs-on: windows-latest
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
 
