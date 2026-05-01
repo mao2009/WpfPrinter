@@ -10,8 +10,6 @@ on:
 jobs:
   build-test:
     runs-on: ubuntu-latest
-    env:
-      NUGET_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
