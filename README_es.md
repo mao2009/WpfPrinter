@@ -18,7 +18,7 @@ Esta biblioteca está diseñada para implementar fácilmente funcionalidades de 
 ## Instalación
 
 ```bash
-dotnet add package WpfPrinter
+dotnet add package loach.WpfPrinter
 ```
 
 ## Uso

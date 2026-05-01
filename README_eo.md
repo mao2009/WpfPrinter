@@ -18,7 +18,7 @@ Biblioteko por provi presajn funkciojn por WPF.
 ## Instalo
 
 ```bash
-dotnet add package WpfPrinter
+dotnet add package loach.WpfPrinter
 ```
 
 ## Uzado

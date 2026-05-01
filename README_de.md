@@ -18,7 +18,7 @@ Diese Bibliothek ist entwickelt, um Druckfunktionen einfach in WPF-Anwendungen z
 ## Installation
 
 ```bash
-dotnet add package WpfPrinter
+dotnet add package loach.WpfPrinter
 ```
 
 ## Verwendung

@@ -18,7 +18,7 @@ Qeyb lo' luj WpuDaw' maSop chenmoH.
 ## qaw'DIch
 
 ```bash
-dotnet add package WpfPrinter
+dotnet add package loach.WpfPrinter
 ```
 
 ## lo'mej

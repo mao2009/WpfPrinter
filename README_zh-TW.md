@@ -18,7 +18,7 @@
 ## 安裝
 
 ```bash
-dotnet add package WpfPrinter
+dotnet add package loach.WpfPrinter
 ```
 
 ## 使用方法

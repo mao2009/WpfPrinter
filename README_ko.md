@@ -18,7 +18,7 @@ WPF용 인쇄 기능을 제공하는 라이브러리입니다.
 ## 설치
 
 ```bash
-dotnet add package WpfPrinter
+dotnet add package loach.WpfPrinter
 ```
 
 ## 사용법
